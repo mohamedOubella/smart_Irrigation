@@ -1,0 +1,6 @@
+on a pour cotée REACT JS deux Classes important : 
+1--------------->  /src/View/tempertature.jsx et      /src/View/mode_manuel_Moteur.jsx
+
+----///***on a les deux classes commenter chaque ligne 
+
+apres ila ya un index.js et un router.js c pour login de debut qui va deriger vers temp...jsx 
